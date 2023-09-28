@@ -1,0 +1,8 @@
+node_modules
+pocproject.json
+oAuthCredentials.json
+*.txt
+*.cert
+*.key
+*lock.json
+client_secret.json
